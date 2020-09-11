@@ -1,6 +1,7 @@
 # website
 Project description:
-Following different phases of website development, which includes: Sitemap, Wireframe, Mockups, and website development
+Following different phases of website development, which includes: Sitemap, Wireframe, Mockups, and website development.
+
 The website includes 5 pages:
 1.	Homepage 
 ·	Contains a video
