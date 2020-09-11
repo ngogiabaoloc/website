@@ -1,0 +1,240 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color:#f6e4d0;
+	}
+#homepage {
+	margin:auto;
+	width:980px;
+	height:auto;
+	overflow:auto;
+	}
+nav {
+	padding:10px 0px;
+	background-color:#823529;
+	text-align: left;
+	width:980px;
+	}
+nav a {
+	background-color:#823529;
+	text-decoration: none;
+	padding:10px 20px;
+	color:white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size:16px;
+	}
+header {
+	margin:20px;
+	overflow:auto;
+	width:940px;
+	}
+#middle {
+	float:left;
+	}
+.h1 {
+	width:300px;
+	float:left;
+	padding:0px 5px;
+	margin: auto 0px;
+		}
+#lala {
+	padding:20px;
+	border:thin black solid;
+	overflow:auto;
+	margin: 20px 0px;
+	}
+.heading {
+	float: right;
+	}
+.logo {
+	float:left;
+	width:300px;
+	padding: 0px 10px;
+	}
+.address {
+	float:right;
+	width: 250px;
+	padding: 5px;
+	margin: auto 0; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		}
+.intro {
+	background-color:#823529;
+	color: white;
+	float: left;
+	width:250px;
+	height: 500px;
+	border: thick;
+	margin: 0px 20px 10px 20px;
+	padding: 10px;
+	font-size:14px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	}
+ .adbanner {
+	 margin: 10px 20px;
+	 width:940px;
+	 height:400px;
+
+	 }
+	footer {
+		background-color:#552c1c;
+		padding:10px 0px;
+		width:980px;
+		text-align:center;
+		overflow:auto;
+	}
+	footer a {
+		color: white;
+		text-decoration: none;
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		padding:10px 20px;
+	}
+video {
+	padding:50px;
+	}
+#menu {
+	background-color:white;
+	margin:20px;
+	width:940px;
+	overflow:auto;
+	}
+#menu a {
+	background-color:#823529;
+	text-decoration:none;
+	color:white;
+	padding:10px 20px;
+	width:100px;
+	margin:20px;
+	text-align:center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size:14px;
+	display:block;
+	}
+.descriptionLeft {
+	width:250px;
+	margin:20px 20px 00px 20px;
+	}
+.descriptionRight {
+	width:250px;
+	margin:80px 20px 0px 20px;
+	}
+#espresso {
+	margin:20px 0 0 20px;
+	width:250px;
+	}
+#milkshake {
+	margin:20px;
+	width:250px;
+	}
+#salad {
+	width:250px;
+	margin:20px;
+	}
+.address0{
+	width:300px;
+	padding:10px;
+	}
+.left {
+	float:left;
+	width:50%;
+	position: relative;
+	}
+.right {
+	float:left;
+	width:50%;
+	}
+.team  {
+	margin: 20px 0px;
+	overflow:auto;
+	}
+.memberdes{
+	margin:0 20px;
+	}
+.member13 {
+	overflow:auto;
+	background-color:#c6ab8e;
+	}
+.member24{
+	overflow:auto;
+	}
+.team img {
+	width:500px;
+	height:300px;
+	float:left;
+	margin:15px 50px 15px 10px;
+	}
+.menuheading {
+	margin:10px auto;
+	Padding:10px;
+	background-color:#823529;
+	width:400px;
+	color:white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align:center;
+	}
+.menuimg {
+	margin:0 auto 10px auto;
+	display: block;
+	width: 420px;
+	}
+form {
+	background-color:#f6e4d0;
+	width:550px;
+	margin:20px auto;
+	padding:10px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	}
+.menucontent{
+	overflow:auto;
+	background-color:white;
+	width:980px;
+	}
+.menutable {
+	margin:20px auto;
+	width:420px;
+	}
+#saladmenu {
+	width:48%;
+	background-color:white;
+	margin:20px 5px;
+	float:left;
+}
+#foodmenu {
+	width:48%;
+	background-color:white;
+	float:left;
+	margin:20px 5px;
+	}
+#formfill {
+	background-color:white;
+	margin:20px;
+	padding:10px;
+	}
+#formfill p{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	width:550px;
+	margin:0 auto;
+	}
+#gallery {
+	overflow: auto;
+	width:980px;
+	background-color:white;
+	margin:10px auto;
+	}
+#gallery img {
+	 padding:10px;
+	}
+#galleryleft {
+	float:left;
+	width:48%;
+	}
+#galleryright {
+	float:left;
+	width:48%;
+	}
+#formfill h2{
+	padding:10px;
+	width:300px;
+	margin:0 auto;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	}
